@@ -75,7 +75,7 @@ def save_feedback(feedback_data):
 # ---------------------------
 # Streamlit App Layout
 # ---------------------------
-st.title("Marketing Concepts Tool")
+st.title("Marketing Concept Tool")
 
 # --- API Key Section ---
 st.header("Enter Your OpenAI API Key")
